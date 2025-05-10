@@ -1,0 +1,46 @@
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: greenyellow
+    border: 3px solid ;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.popular{
+    background-color: white;
+    color: royalblue;
+    }
+
+header h1{
+    text-align: center;   
+}
+
+footer h3{
+    color: navy;
+}
+
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid navy;
+    border-radius: 15px;
+}
+
+h1{
+    color: black;
+}
+h2{
+    color: goldenrod;
+}
+
+table{
+    color:green
+}
+
+body{
+    font-size: 20px;
+    padding: 20px;
+    
+}
